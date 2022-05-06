@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MidnightChems
-- 🌱 I’m currently learning ... Magento, BigCommerce, E-commerce in general
-- 💞️ I’m looking to collaborate on ... HTML/CSS JS, PHP, Open source
+- 🌱 I’m currently learning ... JS, Node.js
+-  :desktop_computer: I'm currently doing ...E-commerce; Magento, BigCommerce, WooCommerce
+- 💞️ I’m looking to collaborate on ... HTML/CSS JS, PHP, Open source, Wordpress
 - 📫 How to reach me ... gorazem@outlook.com
 
 <!---
