@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ... JS, Node.js, Project Managment, Single Page Apps, and Progressive Web Apps
 -  :desktop_computer: I'm currently doing ...E-commerce; Magento, BigCommerce, WooCommerce
 - 💞️ I’m looking to collaborate on ... HTML/CSS JS, PHP, Open source, Wordpress
-- :moneybag: Hire me for freelance work @ https://www.upwork.com/workwith/guyorazem
+- :moneybag: Hire me @ linkedin.com/in/guy-orazem
 - 📫 How to reach me ... gorazem@outlook.com
 
 <!---
