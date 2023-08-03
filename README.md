@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MidnightChems
 - 🌱 I’m currently learning ... PHP and SQL
 -  :desktop_computer: I'm currently doing ...E-commerce; Shopify and WooCommerce
-- 💞️ I’m looking to collaborate on ... HTML/CSS, PHP, Open source, Wordpress
+- 💞️ I’m looking to collaborate on ... JS, PHP, Python, Java and more.
 - :moneybag: Hire me @ linkedin.com/in/guy-orazem
 - 📫 How to reach me ... gorazem@outlook.com
 
