@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MidnightChems
 - 🌱 I’m currently learning ... Java and Javascript
--  :desktop_computer: I'm currently doing ...E-commerce; Shopify, Acumatica (ERP), and Salesforce
-- 💞️ I’m looking to collaborate on ... JS, PHP, Python, Java and more.
+-  :desktop_computer: I'm currently doing ... Acumatica (ERP), and Salesforce (CRM)
+- 💞️ I’m looking to collaborate on ... Acumatica, Salesforce customizations
 - :moneybag: Hire me @ linkedin.com/in/guy-orazem
 - 📫 How to reach me ... gorazem@outlook.com
 
