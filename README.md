@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MidnightChems
-- 🌱 I’m currently learning ... Java and Javascript
+- 🌱 I’m currently learning ... Javascript
 -  :desktop_computer: I'm currently doing ... Acumatica (ERP), and Salesforce (CRM)
+-  :mechanical_arm: My current project ... Text Based RPG (vanilla JS)
 - 💞️ I’m looking to collaborate on ... Acumatica, Salesforce customizations
 - :moneybag: Hire me @ linkedin.com/in/guy-orazem
 - 📫 How to reach me ... gorazem@outlook.com
