@@ -4,7 +4,9 @@
 -  :mechanical_arm: My current project ... Text Based RPG (vanilla JS)
 - 💞️ I’m looking to collaborate on ... Games! HMU! :love_letter:
 - :moneybag: Hire me @ linkedin.com/in/guy-orazem
-- 📫 How to reach me ... gorazem@outlook.com
+- 📫 How to reach me ... Discord: midnightchems
+- http://discordapp.com/users/UserID/321114560851345409
+- gorazem@outlook.com
 
 <!---
 MidnightChems/MidnightChems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
