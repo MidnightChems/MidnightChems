@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MidnightChems
-- 🌱 I’m currently learning ...  Java.
--  :desktop_computer: I'm currently doing ... Acumatica (ERP), Shopify, and Salesforce (CRM)
+- 🌱 I’m currently learning ...  TypeScript, Java.
+-  :desktop_computer: I'm currently doing ... Custom Product Quote Builder TypeScript app 
 -  :mechanical_arm: My current project ... 2D Music Sim
 - 💞️ I’m looking to collaborate on ... Games! HMU! :love_letter:
 - :moneybag: linkedin @ linkedin.com/in/guy-orazem
